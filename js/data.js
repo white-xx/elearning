@@ -1,5 +1,3 @@
-data
-
 const sidebarData = [
   {
     title: "Modul Ajar Peluang",
